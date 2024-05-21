@@ -6,12 +6,12 @@ function areaOfTriangle(a, b, c) {
     return area;
 }
 console.log(areaOfTriangle(5,6,7));
-// return areaOfTriangle;
-// var length = 5;
-// var breadth = 6;
-// var height = 7;
+return areaOfTriangle;
+var length = 5;
+var breadth = 6;
+var height = 7;
 
-// var side = (length + breadth + height) /2;
-// var area = Math.sqrt(side * (side - length) * (side - breadth) * (side * height));
-// console.log(area);
-// console.log(side);
+var side = (length + breadth + height) /2;
+var area = Math.sqrt(side * (side - length) * (side - breadth) * (side * height));
+console.log(area);
+console.log(side);
