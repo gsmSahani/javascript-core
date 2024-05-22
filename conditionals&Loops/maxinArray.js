@@ -6,13 +6,13 @@ const max = Math.max(...array);
 console.log(max);
 
 // 2nd method using for loop
-const array = [3,6,8,9,10,50,100];
-let max = array[0];
+// const array = [3,6,8,9,10,50,100];
+// let max = array[0];
 
-for(let i = 1; i < array.length; i++){
-    if(array[i] > max){
-        max = array[i];
-    }
-}
+// for(let i = 1; i < array.length; i++){
+//     if(array[i] > max){
+//         max = array[i];
+//     }
+// }
 
-console.log(max);
+// console.log(max);
