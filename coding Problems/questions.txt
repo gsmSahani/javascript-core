@@ -8,6 +8,8 @@
 8. Write a JavaScript program to find the largest element in a nested array.
 9. Write a JavaScript function that returns the Fibonacci sequence up to a given number of terms.
 10. Write a JavaScript program to convert a string to title case (capitalize the first letter of each word).
+
+
 ---------------------ADVANCE QUESTIONS--------------------
 1. Implement a debounce function in JavaScript that limits the frequency of a function’s execution when it’s called repeatedly within a specified time frame.
 2. Write a function that takes an array of objects and a key, and returns a new array sorted based on the values of that key in ascending order.
@@ -19,6 +21,8 @@
 8. Implement a function that flattens a nested array in JavaScript, converting it into a single-level array.
 9. Write a function that determines if two strings are anagrams of each other
 10. Create a JavaScript function that returns the Fibonacci sequence up to a given number, utilizing memoization for optimized performance. 
+
+
 -----------------------Common JavaScript coding interview questions----------------------------------
 1. Write a function to check if a given string is a palindrome.
 2. Implement a function to reverse a string without using the built-in reverse() method.
@@ -30,6 +34,10 @@
 8. Given a string, write a function to count the occurrences of each character in the string.
 9. Implement a function to remove duplicates from an array. 
 10. Write a function that sorts an array of numbers in ascending order.
+
+
+
+
 ---------------------Tricky JavaScript coding questions--------------------------
 1. Write a function that reverses the order of words in a sentence without using the built-in reverse() method.
 2. Implement a function that checks if a given string is a palindrome (reads the same forwards and backwards) while ignoring whitespace and punctuation.
@@ -40,7 +48,12 @@
 7. Write a function that checks if a given string is an anagram of another string (contains the same characters in a different order). 
 8. Implement a function that finds the second smallest element in an array of integers. 
 9. Write a function that generates a random alphanumeric string of a given length.
-10. Implement a function that converts a number to its Roman numeral representation. 
+10. Implement a function that converts a number to its Roman numeral representation.
+
+
+
+
+
 ---------------------JavaScript array coding questions--------------------------
 1. Write a function that returns the sum of all numbers in an array. 
 2. Implement a function that finds the maximum number in an array.

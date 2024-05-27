@@ -1,3 +1,24 @@
+--------------------Mixed Javascript Interview Questions--------------------
+1.  How do you detect primitive or non-primitive values types in js?
+2.  Explain the key features introduced in js ES6?
+3.  Difference between var let and const and hoinsting?
+4.  What are arrow functions in js?
+5.  What is strict mode in js?
+6.  What is NaN?
+8.  isjs statically typed or dynamically typed language?
+9.  Explain map filter and reduce
+10. Difference between null and undefined?
+11. What is DOM and BOM?
+12. Explain this keyword in js with an example.
+13. what is scope and closure in js?
+14. explain call bind and apply?
+15. What are prototypes in js?
+16. What is callback and callback hell?
+17. What is temporal dead zone TDZ?
+18. Expalin rest and spread operator in js?
+19. What is default parameters in js?
+20. Difference between function declaration and expression?
+21. Difference between setTimeout , setImmediate and process.nextTick?
 ---------------------Javascript Fundamentals----------------
 1.  What are data types present in javascript?
 2.  what is the difference between null and undefined?
