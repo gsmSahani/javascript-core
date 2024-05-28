@@ -12,7 +12,7 @@
 //         if(array[i] % 2 === 0){
 //             result.push(array[i]);
 //         }
-//     }
+//     } 
 //     return result;
 // }
 // const array = [2,5,9,2,58,89,4,6,0,20];
