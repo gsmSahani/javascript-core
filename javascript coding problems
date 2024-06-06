@@ -1,0 +1,226 @@
+1. Write a function that returns the sum of two numbers. DONE
+2. Write a function that returns the largest of three numbers. DONE
+3. Write a function to reverse a string.
+4. Write a function to check if a number is even or odd.
+5. Write a function to convert an array of numbers from Celsius to Fahrenheit.
+6. Write a function to find the longest word in a sentence.
+7. Write a function to check if a string is a palindrome.
+8. Write a function to return the factorial of a number.
+9. Write a function to generate an array of n random numbers between 0 and 100.
+10. Write a function that returns the nth Fibonacci number.
+11. Write a function to find the greatest common divisor (GCD) of two numbers.
+12. Write a function to find the least common multiple (LCM) of two numbers.
+13. Write a function to remove duplicates from an array.
+14. Write a function to find the intersection of two arrays.
+15. Write a function to merge two sorted arrays into a single sorted array.
+16. Write a function to count the number of vowels in a string.
+17. Write a function to capitalize the first letter of each word in a string.
+18. Write a function to find the second largest number in an array.
+19. Write a function to flatten a nested array.
+20. Write a function to check if two strings are anagrams.
+21. Write a function to return the sum of all numbers in a given range.
+22. Write a function to find the missing number in an array of consecutive numbers.
+23. Write a function to find the first non-repeating character in a string.
+24. Write a function to rotate an array by k positions.
+25. Write a function to generate all permutations of a string.
+26. Write a function to generate all combinations of k elements from an array.
+27. Write a function to check if a given string is a valid email address.
+28. Write a function to implement the binary search algorithm.
+29. Write a function to check if a number is a prime number.
+30. Write a function to find the sum of the digits of a number.
+31. Write a function to find the maximum sum of any subarray of fixed size k.
+32. Write a function to find the median of two sorted arrays.
+33. Write a function to remove all occurrences of a given value from an array.
+34. Write a function to count the occurrences of each element in an array.
+35. Write a function to implement the bubble sort algorithm.
+36. Write a function to implement the quicksort algorithm.
+37. Write a function to find the kth largest element in an array.
+38. Write a function to convert a Roman numeral to an integer.
+39. Write a function to find all prime numbers up to a given limit.
+40. Write a function to calculate the power of a number without using the Math.pow function.
+41. Write a function to convert an integer to its binary representation.
+42. Write a function to find the longest common prefix among an array of strings.
+43. Write a function to remove all falsy values from an array.
+44. Write a function to count the number of words in a string.
+45. Write a function to implement the merge sort algorithm.
+46. Write a function to implement the insertion sort algorithm.
+47. Write a function to generate the Pascal's triangle up to n rows.
+48. Write a function to find the sum of all elements in a multidimensional array.
+49. Write a function to convert a string to title case.
+50. Write a function to implement a simple calculator that can add, subtract, multiply, and divide two numbers.
+
+---
+
+### Array Questions
+
+Certainly! Here's a list of 50 array-based coding questions designed to enhance your logical thinking and problem-solving skills in JavaScript. These questions range from basic to intermediate difficulty and cover a variety of array manipulation and algorithmic challenges.
+
+### Basic Level (1-25)
+
+1. Write a function to find the maximum element in an array.
+2. Write a function to find the minimum element in an array.
+3. Write a function to find the sum of all elements in an array.
+4. Write a function to calculate the average of elements in an array.
+5. Write a function to reverse an array.
+6. Write a function to check if an array is sorted in ascending order.
+7. Write a function to remove duplicate elements from an array.
+8. Write a function to merge two arrays into one.
+9. Write a function to split an array into chunks of a given size.
+10. Write a function to find the index of a given element in an array.
+11. Write a function to remove a specific element from an array.
+12. Write a function to shuffle an array.
+13. Write a function to flatten a nested array.
+14. Write a function to find the union of two arrays.
+15. Write a function to find the intersection of two arrays.
+16. Write a function to find the difference of two arrays.
+17. Write a function to rotate an array to the right by k steps.
+18. Write a function to find the frequency of each element in an array.
+19. Write a function to find the largest product of two integers in an array.
+20. Write a function to find the second largest element in an array.
+21. Write a function to find the nth Fibonacci number using an array.
+22. Write a function to implement selection sort on an array.
+23. Write a function to implement insertion sort on an array.
+24. Write a function to implement bubble sort on an array.
+25. Write a function to implement merge sort on an array.
+
+### Intermediate Level (26-50)
+
+26. Write a function to find the kth smallest element in an unsorted array.
+27. Write a function to find the longest increasing subsequence in an array.
+28. Write a function to find the missing number in a sequence of numbers.
+29. Write a function to find the contiguous subarray with the largest sum.
+30. Write a function to find the majority element in an array (element appears more than n/2 times).
+31. Write a function to implement quick sort on an array.
+32. Write a function to implement heap sort on an array.
+33. Write a function to implement counting sort on an array.
+34. Write a function to implement radix sort on an array.
+35. Write a function to find the maximum subarray product in an array.
+36. Write a function to find the peak element in an array.
+37. Write a function to find the leaders in an array (elements which have no element greater than them on the right side).
+38. Write a function to find the minimum number of jumps to reach the end of an array.
+39. Write a function to find the smallest missing positive integer in an unsorted array.
+40. Write a function to find the longest common prefix among an array of strings.
+41. Write a function to sort an array of 0s, 1s, and 2s (Dutch National Flag problem).
+42. Write a function to find the maximum sum of any circular subarray in an array.
+43. Write a function to find the maximum length of a subarray with contiguous elements.
+44. Write a function to find the length of the shortest unsorted continuous subarray to make the whole array sorted.
+45. Write a function to find the maximum XOR value of two elements in an array.
+46. Write a function to find the smallest subarray with a sum greater than or equal to a given value.
+47. Write a function to rotate a matrix by 90 degrees clockwise.
+48. Write a function to find the celebrity in a party (if exists) using an array of people's opinions.
+49. Write a function to implement the Fisher-Yates shuffle algorithm on an array.
+50. Write a function to find the maximum number of non-overlapping intervals in an array.
+--------------------------------------------------------------------------------------------
+### for string
+1. Write a function to reverse a string.
+2. Write a function to check if a string is a palindrome.
+3. Write a function to count the number of vowels in a string.
+4. Write a function to count the number of consonants in a string.
+5. Write a function to find the first non-repeating character in a string.
+6. Write a function to capitalize the first letter of each word in a string.
+7. Write a function to check if two strings are anagrams of each other.
+8. Write a function to remove duplicate characters from a string.
+9. Write a function to find the longest word in a string.
+10. Write a function to reverse the order of words in a sentence.
+11. Write a function to check if a string contains only digits.
+12. Write a function to check if a string contains only alphabets.
+13. Write a function to check if a string is a valid email address.
+14. Write a function to extract the domain name from an email address.
+15. Write a function to convert a string to camel case.
+16. Write a function to convert a string to snake case.
+17. Write a function to convert a string to kebab case.
+18. Write a function to truncate a string to a specified length.
+19. Write a function to repeat a string a specified number of times.
+20. Write a function to remove whitespace from the beginning and end of a string.
+21. Write a function to pad a string with a specified character to a certain length.
+22. Write a function to find the most frequent character in a string.
+23. Write a function to find the first occurrence of a substring in a string.
+24. Write a function to replace all occurrences of a substring in a string with another substring.
+25. Write a function to reverse the case of each character in a string.
+
+### Intermediate Level (26-50)
+
+26. Write a function to check if a string contains another string in a case-insensitive manner.
+27. Write a function to generate all permutations of a string.
+28. Write a function to generate all possible subsets of a string.
+29. Write a function to find the longest common prefix among an array of strings.
+30. Write a function to find the longest palindromic substring in a string.
+31. Write a function to find the minimum window in a string containing all characters of another string.
+32. Write a function to count the number of palindrome substrings in a string.
+33. Write a function to find the lexicographically smallest and largest substring of a given length in a string.
+34. Write a function to find the shortest distance between two words in a sentence.
+35. Write a function to check if a string is a valid IPv4 address.
+36. Write a function to check if a string is a valid IPv6 address.
+37. Write a function to check if a string is a valid URL.
+38. Write a function to extract all URLs from a string.
+39. Write a function to check if a string is a valid palindrome after removing at most one character.
+40. Write a function to find the longest substring without repeating characters.
+41. Write a function to find the length of the longest substring with at most K distinct characters.
+42. Write a function to find the minimum number of characters to be removed to make a string palindrome.
+43. Write a function to find the longest substring with equal number of vowels and consonants.
+44. Write a function to find the longest substring with distinct characters.
+45. Write a function to find the longest common subsequence between two strings.
+46. Write a function to find the longest repeating substring in a string.
+47. Write a function to find the shortest common supersequence of two strings.
+48. Write a function to find the length of the longest palindromic subsequence.
+49. Write a function to find the minimum number of operations required to convert one string to another.
+50. Write a function to find the length of the longest substring with no repeating characters.
+----------------------------------------------------------------------------
+### objects questions
+
+### Basic Level (1-25)
+
+1. Write a function to check if an object is empty.
+2. Write a function to check if a key exists in an object.
+3. Write a function to get the size of an object (number of keys).
+4. Write a function to clone an object.
+5. Write a function to merge two objects into one.
+6. Write a function to check if two objects have the same properties and values.
+7. Write a function to remove a property from an object.
+8. Write a function to convert an object to an array of key-value pairs.
+9. Write a function to get the values of an object as an array.
+10. Write a function to get the keys of an object as an array.
+11. Write a function to sort an object by its keys.
+12. Write a function to sort an object by its values.
+13. Write a function to iterate over the properties of an object.
+14. Write a function to create an object from an array of key-value pairs.
+15. Write a function to convert an object to a query string.
+16. Write a function to convert a query string to an object.
+17. Write a function to pick specific properties from an object.
+18. Write a function to omit specific properties from an object.
+19. Write a function to deep clone an object.
+20. Write a function to check if two objects are deeply equal.
+21. Write a function to flatten an object.
+22. Write a function to group objects by a property value.
+23. Write a function to count the occurrences of each property value in an array of objects.
+24. Write a function to find the most common property value in an array of objects.
+25. Write a function to find the object with the maximum or minimum value of a specific property in an array of objects.
+
+### Intermediate Level (26-50)
+
+26. Write a function to find the intersection of two arrays of objects based on a common property.
+27. Write a function to find the difference between two arrays of objects based on a common property.
+28. Write a function to find the union of two arrays of objects based on a common property.
+29. Write a function to group objects by multiple properties.
+30. Write a function to partition an array of objects into two groups based on a condition.
+31. Write a function to find the average value of a property in an array of objects.
+32. Write a function to calculate the total sum of a property in an array of objects.
+33. Write a function to filter objects based on multiple criteria.
+34. Write a function to transform the properties of an object based on a mapping.
+35. Write a function to find the top N objects with the highest value of a property in an array of objects.
+36. Write a function to remove duplicate objects from an array of objects.
+37. Write a function to flatten an array of objects containing nested objects.
+38. Write a function to convert an object to a tree structure.
+39. Write a function to convert a tree structure to an object.
+40. Write a function to find the path to a specific node in a tree structure.
+41. Write a function to find the depth of a specific node in a tree structure.
+42. Write a function to traverse a tree structure in pre-order, in-order, and post-order.
+43. Write a function to serialize a tree structure to a string.
+44. Write a function to deserialize a string to a tree structure.
+45. Write a function to find the LCA (Lowest Common Ancestor) of two nodes in a binary tree.
+46. Write a function to flatten a binary tree into a linked list in-place.
+47. Write a function to clone a binary tree.
+48. Write a function to check if a binary tree is balanced.
+49. Write a function to check if a binary tree is a valid binary search tree.
+50. Write a function to find the diameter of a binary tree.
+
