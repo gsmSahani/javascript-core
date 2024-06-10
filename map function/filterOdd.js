@@ -15,3 +15,5 @@ for(let i = 0; i<originalNumber1.length; i++){
     }
 }
 console.log(filterOdd);
+
+// note here dont use map method it will give boolean value
