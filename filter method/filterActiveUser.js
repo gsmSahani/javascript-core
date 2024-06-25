@@ -32,4 +32,4 @@ function filterActiveUsers(people) {
   return activeUser;
 }
 
-    console.log(filterActiveUsers(people));
+console.log(filterActiveUsers(people));

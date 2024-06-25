@@ -13,7 +13,7 @@ console.log(filterArray);
 // console.log(filterEvenNumber([1,2,3,4,5,6]));
 
 const filterArray2 = (predict) => {
-  return function (array) {
+  return function (array) { 
     return array.filter(predict);
   };
 };
